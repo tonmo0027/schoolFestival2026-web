@@ -29,3 +29,5 @@ document.querySelector('#random').addEventListener('click', () => {
   link.textContent = `${chosen.dataset.name}はいかが？`;
   status.replaceChildren(link);
 });
+
+filterGames();

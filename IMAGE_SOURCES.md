@@ -60,3 +60,13 @@
 - ファイル: assets/algo.jpg
 - 商品ページ: https://www.amazon.co.jp/dp/B0CZTQHXL5
 - 画像: https://m.media-amazon.com/images/I/71XFVc9wt2L._AC_SL1500_.jpg
+
+## チェス
+- ファイル: assets/chess.jpg
+- 商品ページ: https://www.amazon.co.jp/dp/B00D8TT4W0
+- 画像: https://m.media-amazon.com/images/I/71pU0+oHOdL._AC_SL1500_.jpg
+
+## 将棋
+- ファイル: assets/shogi.jpg
+- 商品ページ: https://www.amazon.co.jp/dp/B00D8TT4R0
+- 画像: https://m.media-amazon.com/images/I/61yqf4y0J7L._AC_SL1000_.jpg
